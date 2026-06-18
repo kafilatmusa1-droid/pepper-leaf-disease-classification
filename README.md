@@ -84,7 +84,7 @@ Full results, per-class metrics, and discussion are available in the [Technical 
 
 ## Author
 
-Kafilat Musa — Ahmadu Bello University, Zaria
+Kafilat Musa P25EGCP8001— Ahmadu Bello University, Zaria
 COEN807: Machine Learning for Real-World Data Analytics
 
 ## License
